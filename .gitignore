@@ -1,0 +1,26 @@
+# データ
+data/
+
+# Jupyter チェックポイント
+.ipynb_checkpoints/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+
+# 仮想環境
+env/
+venv/
+.ds_env/
+
+# Docker
+.docker/
+*.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS 一時ファイル
+.DS_Store
+Thumbs.db
